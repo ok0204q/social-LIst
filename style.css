@@ -1,0 +1,43 @@
+* {
+  font-family: 微軟正黑體;
+}
+body {
+  background-color: #512b58;
+}
+.listcard {
+  padding: 20px;
+}
+.fa-info-circle {
+  cursor: pointer;
+}
+.fa-info-circle:hover {
+  color: green;
+  transition: 0.5s
+}
+.rounded-circle{
+  cursor: pointer;
+}
+.rounded-circle:hover {
+  opacity: 0.7;
+  transition: 0.5s;
+}
+.card {
+  background-color: #d2fafb;
+  box-shadow: 0px 0px 20px rgba(black,0.3);
+}
+p {
+  font-size: 13px;
+}
+.jumbotron {
+  background-image: url(https://i.imgur.com/Ra4oBgN.jpg);
+  background-size: contain;
+  height: 320px;
+}
+
+.newsrc {
+  width: 100px;
+}
+
+.fa {
+  cursor: pointer;
+}
